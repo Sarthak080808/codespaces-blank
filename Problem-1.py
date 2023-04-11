@@ -17,4 +17,4 @@ def discount(a,b):
         s=0.08*a
         r=a-s
         return(r)
-print(discount(a,b))
+print(discount(a,b)
