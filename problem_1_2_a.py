@@ -12,4 +12,4 @@ def chat(a):
     else:
         b=a[:200]
         return b
-print(chat(a))
+print(chat(a
