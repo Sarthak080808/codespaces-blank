@@ -19,4 +19,4 @@ elif 6<=m<7:
 elif 7<=m<8:
     print("Major Earthquake")
 else:
-    print("Great Earthquake")
+    print("Great Earthquake
