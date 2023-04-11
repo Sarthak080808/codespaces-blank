@@ -16,4 +16,4 @@ g=float(input("Enter time in hours: "))
 h=g*60
 print(h,"minutes")
 i=g*3600
-print(i,"seconds")
+print(i,"seconds
