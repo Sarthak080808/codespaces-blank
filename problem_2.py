@@ -28,4 +28,4 @@ elif c=="floor division" or c=="Floor Division" or c=="Floor division" or c=="FL
 elif c=="remainder" or c=="Remainder" or c=="REMAINDER":
     print(a%b)
 else:
-    print("Invalid Arithmetic Operation")
+    print("Invalid Arithmetic Operation"
